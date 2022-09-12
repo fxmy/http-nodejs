@@ -1,9 +1,9 @@
 {
   "server": "http-nodejs-production-4d9b.up.railway.app",
   "local_address": "127.0.0.1",
-  "scheme": "wss",
+  "scheme": "ws",
   "local_port": 7778,
-  "remote_port": 443,
+  "remote_port": 80,
   "password": "simple",
   "timeout": 600,
   "method": "camellia-256-cfb"
